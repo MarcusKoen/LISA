@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1769683604 source:c:\users\janedoe\onedrive - university of south africa\personal\lisa\lisa\assembler.cpp
+	<iostream>
+	<sstream>
+	<vector>
+	<unordered_map>
+	<fstream>
+	<cstdint>
+
+1769684420 source:c:\users\janedoe\onedrive - university of south africa\personal\lisa\lisa\vm.cpp
+	<iostream>
+	<stdint-gcc.h>
+	<cstdint>
+	<fstream>
+

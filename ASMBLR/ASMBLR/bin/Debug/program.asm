@@ -1,0 +1,8 @@
+MOV R0, 0
+MOV R1, 1
+
+loop:
+ADD R0, R1
+CMP R0, R1
+JNZ loop
+HALT

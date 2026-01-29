@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1769684307 source:c:\users\janedoe\onedrive - university of south africa\personal\lisa\asmblr\asmblr\main.cpp
+	<iostream>
+	<sstream>
+	<vector>
+	<unordered_map>
+	<fstream>
+	<cstdint>
+
